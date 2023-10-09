@@ -41,4 +41,4 @@ _________________________
 # Resoruces 
 - Sounds: From Pixabay.
 - Sprite: https://www.gamephase.net/on-screen-keyboard-for-gamemaker-studio/ (As stated earlier)
-
+PS: Yeah I know the embeds aren't working I'll fix it when I get the chance. 
