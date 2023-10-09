@@ -29,9 +29,11 @@ The functions of the keyboard are:
 - Cool keyboard sounds.
 
 Guide:
+
 ![keyboard guide](https://github.com/T2703/Simple-Virtual-Keyboard/assets/113402224/9c728f98-4b24-4651-ba31-e6efffa30d31)
 
 Demo:
+
 https://github.com/T2703/Simple-Virtual-Keyboard/assets/113402224/76ed1dfc-c746-4a08-8acc-88d978a1def1
 
 Overall, a simple idea and have fun and enjoy if you use it. 
