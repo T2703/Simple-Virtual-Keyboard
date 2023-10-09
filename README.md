@@ -5,6 +5,5 @@ I have made this keyboard as more of a fun project and to explore other experien
 
 Keyboard:
 
-<img width = "500" alt = "keyboard"
-src="https://github.com/T2703/Simple-Virtual-Keyboard/assets/113402224/90db98db-6b30-4be1-a31d-b66b739bc4ee">
 
+![keyboard](https://github.com/T2703/Simple-Virtual-Keyboard/assets/113402224/a0d87934-ef65-4f47-9485-18487600279b)
