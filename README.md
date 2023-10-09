@@ -15,7 +15,14 @@ Technologies:
 - Java
 - Robot Framework
 - Java Sound API
+_________________________
 
-How this keyboard works is pretty much just like a keyboard but, only on the computer. So, the user can use their mouse and click on the corresponding key and it will print out the letter on a certain text field like search bars, messages, notepad, etc. 
+How this keyboard works is pretty much just like a keyboard but, only on the computer. So, the user can use their mouse and click on the corresponding key and it will print out the letter on a certain text field like search bars, messages, notepad, etc. Also, it is much simpler compared to an actual 
+keyboard as I was working with a pre-existing sprite. 
 
 The functions of the keyboard are:
+- Standard key presses such as being able to enter in letters or numbers or certain special characters.
+- Caps lock for enabling capital letters.
+- Backspace.
+- Enter/return.
+- A space button. 
