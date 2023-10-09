@@ -1,2 +1,3 @@
-# Simple-Virtual-Keyboard
-Keyboard that was made in Java using the Robot Framework for functionally. 
+# Simple Virtual Keyboard
+
+I have made this keyboard as more of a fun project and to explore other experiences with Java. 
