@@ -30,7 +30,7 @@ The functions of the keyboard are:
 
 Guide:
 
-![keyboard guide](https://github.com/T2703/Simple-Virtual-Keyboard/assets/113402224/9c728f98-4b24-4651-ba31-e6efffa30d31)
+[keyboard guide](https://github.com/T2703/Simple-Virtual-Keyboard/assets/113402224/9c728f98-4b24-4651-ba31-e6efffa30d31)
 
 Demo:
 
