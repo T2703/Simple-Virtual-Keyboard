@@ -25,4 +25,6 @@ The functions of the keyboard are:
 - Caps lock for enabling capital letters.
 - Backspace.
 - Enter/return.
-- A space button. 
+- A space button.
+  
+![keyboard guide](https://github.com/T2703/Simple-Virtual-Keyboard/assets/113402224/9c728f98-4b24-4651-ba31-e6efffa30d31)
